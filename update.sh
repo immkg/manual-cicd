@@ -7,4 +7,4 @@ docker-compose down
 git checkout develop
 git pull origin develop
 
-docker-compose up -d
+docker-compose up --build -d
