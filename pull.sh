@@ -1,5 +1,5 @@
 #!/bin/bash
 
-cd auth-server
+cd mai_middleware
 git checkout develop
 git pull origin develop

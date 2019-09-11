@@ -1,4 +1,4 @@
 #!/bin/bash
 
-cd auth-server
+cd mai_middleware
 docker-compose down
